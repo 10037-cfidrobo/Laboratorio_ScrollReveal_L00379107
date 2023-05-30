@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(241, 204, 151, 0.8), rgba(155,35,234,0.7)),url("img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.logo {
+    height: 50px;
+   
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #000000 !important;
+    
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
+.img-fluid{
+    width: 300px;
+    height:auto ;
+}
+#testimonial {
+    background: #d2d0f7;
+    padding: 50px 0 30px 0;
+    text-align:center;
+    margin-top: 40px;
+  }
+  footer {
+    background: url(/img/bg.jpg);
+  }
+
+
+/*  contacto*/
+/* Estilos del formulario en el footer */
